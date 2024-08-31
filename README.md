@@ -1,9 +1,3 @@
-###  Attributions
-Indicators of Heart Disease dataset uploaded on Kaggle by Kamil Pytlak: `https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease`
-- Add more if applicable
-
----
-
 ## File Overview
 
 ### ← main.py
